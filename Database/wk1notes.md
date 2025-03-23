@@ -41,4 +41,4 @@ The free spirit of data types! It's like a Jackson Pollock painting – no rigid
 
 
 
-Now you're ready to dive into the world of data with confidence and style😎 Remember, understanding data is the key to unlocking the potential of modern applications. So go forth and conquer the data universe 🚀🌠
+Now you're ready to dive into the world of data with confidence and style😎 Remember, understanding data is the key to unlocking the potential of modern applications. So go forth and conquer the data universe 🚀🌠.
