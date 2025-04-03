@@ -25,15 +25,15 @@ To view this portfolio website locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone [repository URL]
+    git clone [https://github.com/barbpic/PLP-Learning/tree/6a72dbca29c5186aac8baf7ab8e0a375804ae989/web-development/PORTFOLIO3]
     ```
-    (Replace `[repository URL]` with the actual URL of this repository)
+   
 
 2. **Navigate to the project directory:**
     ```bash
-    cd [repository name]
+    cd [PLP-Learning]
     ```
-    (Replace `[repository name]` with the name of the cloned repository)
+    
 
 3. **Open the `index.html` file in your web browser.**
     (Simply double-click the `index.html` file or right-click and choose "Open with...")
