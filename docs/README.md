@@ -28,8 +28,8 @@ Here's a snapshot of the knowledge and abilities I'm adding to my toolkit! 🧰
 Let's connect and learn together! 🤗
 
 
-* [(https://github.com/barbpic)] 🐙
-* [(https://www.linkedin.com/in/barbra-wendy-74a86b239/)]
+* [https://github.com/barbpic] 🐙
+* [https://www.linkedin.com/in/barbra-wendy-74a86b239/]
 
 
 ## Last Updated 🗓️
