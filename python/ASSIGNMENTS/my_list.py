@@ -14,5 +14,5 @@ my_list.pop()
 
 my_list.sort()
 
-index_20 = my_list.index(20)
-print("Index of 20:", index_20)
+index_30 = my_list.index(30)
+print("Index of 30:", index_30)
