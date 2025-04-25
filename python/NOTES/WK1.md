@@ -98,17 +98,17 @@ print(c)  # prints Hello world
 
 - Variable names can include letters (a-z, A-Z), digits (0-9), and underscores (_).
 - Examples:
-    - `snake_case`
-    - `MACRO_CASE`
-    - `camelCase`
-    - `CapsWords`
+     - `snake_case`
+     - `MACRO_CASE`
+     - `camelCase`
+     - `CapsWords`
 - Python is case-sensitive. For example:
-    ```python
-    num = 55
-    Num = 510
-    print(num)  # 55
-    print(Num)  # 510
-    ```
+     ```python
+     num = 55
+     Num = 510
+     print(num)  # 55
+     print(Num)  # 510
+     ```
 - Avoid using Python keywords like `if`, `True`, `class`, etc., as variable names.
 
 ### More Resources
@@ -195,11 +195,11 @@ Operators are special symbols that perform operations on variables and values.
 # DAY 5: Beginner-Friendly Projects
 
 1. **Personalized Greeting App** 👋  
-     Create a program that asks for the user’s name and favorite color, then prints a personalized greeting like:  
-     `"Hello, [Name]! Your favorite color, [Color], is awesome!"`
+      Create a program that asks for the user’s name and favorite color, then prints a personalized greeting like:  
+      `"Hello, [Name]! Your favorite color, [Color], is awesome!"`
 
 2. **Simple Quiz Game** 🎮  
-     Create a multiple-choice quiz with questions about Python, movies, or any fun topic! Display scores at the end and allow the user to play again. 🏆
+      Create a multiple-choice quiz with questions about Python, movies, or any fun topic! Display scores at the end and allow the user to play again. 🏆
 
 3. **Random Joke Generator** 🤣  
-     Build a program that stores a list of jokes and randomly selects one to display every time the user runs it. Add a fun twist with jokes about Python or programming! 🐍💡
+      Build a program that stores a list of jokes and randomly selects one to display every time the user runs it. Add a fun twist with jokes about Python or programming! 🐍💡
