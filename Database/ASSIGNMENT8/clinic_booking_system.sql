@@ -123,6 +123,6 @@ INSERT INTO PrescriptionMedications (prescription_id, medication_id, quantity) V
 (1, 1, 10),
 (2, 2, 1),
 (3, 3, 6);
-select * from appointments;
+
 
 
