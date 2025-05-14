@@ -1,6 +1,4 @@
-Here's a comprehensive **README.md** file and an **Analysis Report** for your COVID-19 Global Data Tracker project:
 
----
 
 # 📝 **COVID-19 Global Data Tracker**  
 *A Streamlit-based dashboard for tracking COVID-19 cases, deaths, and vaccinations worldwide*  
