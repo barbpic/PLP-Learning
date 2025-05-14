@@ -1,11 +1,9 @@
-Here's a comprehensive **README.md** file and an **Analysis Report** for your COVID-19 Global Data Tracker project:
 
----
 
 # 📝 **COVID-19 Global Data Tracker**  
 *A Streamlit-based dashboard for tracking COVID-19 cases, deaths, and vaccinations worldwide*  
 
-![Demo](https://img.shields.io/badge/Demo-Available-green) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+ ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 
 ---
 
@@ -54,8 +52,8 @@ Built with:
 ## ⚙️ **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/covid-tracker.git
-   cd covid-tracker
+   git clone https://github.com/yourusername/covid.git
+   cd covid
    ```
 
 2. Install dependencies:  
